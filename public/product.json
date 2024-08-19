@@ -1,0 +1,11 @@
+{
+    "title": "Apple Iphone 14 plus",
+    "price" : 65000,
+    "image" : "images/apple.jpg",
+   "offers": [
+                 "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+                 "Bank Offer5% Cashback on Flipkart Axis Bank CardT&C",
+                 "Bank Offer₹1000 off on Selected Bank Net Banking TransactionT&C",
+                 "Special PriceGet extra ₹12901 off (price inclusive of cashback/coupon)T&C"
+             ]
+}
